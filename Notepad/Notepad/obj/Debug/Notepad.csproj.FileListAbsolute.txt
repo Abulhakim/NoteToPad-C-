@@ -1,0 +1,36 @@
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\bin\Debug\Notepad.exe.config
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\bin\Debug\Notepad.exe
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\bin\Debug\Notepad.pdb
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\obj\Debug\Notepad.MainForm.resources
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\obj\Debug\Notepad.exe
+d:\student_302_06\documents\visual studio 2013\Projects\Notepad\Notepad\obj\Debug\Notepad.pdb
+H:\New folder\Notepad\Notepad\bin\Debug\Notepad.exe.config
+H:\New folder\Notepad\Notepad\obj\Debug\Notepad.exe
+H:\New folder\Notepad\Notepad\obj\Debug\Notepad.pdb
+H:\New folder\Notepad\Notepad\bin\Debug\Notepad.exe
+H:\New folder\Notepad\Notepad\bin\Debug\Notepad.pdb
+H:\New folder\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+H:\New folder\Notepad\Notepad\obj\Debug\Notepad.MainForm.resources
+H:\New folder\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+H:\New folder\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\ \New folder\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\ \New folder\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\ \New folder\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\ \New folder\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\ \New folder\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\ \New folder\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\ \New folder\Notepad\Notepad\obj\Debug\Notepad.MainForm.resources
+E:\ \New folder\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\ \New folder\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\Abduhalim\C#\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\Abduhalim\C#\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\Abduhalim\C#\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\Abduhalim\C#\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\Abduhalim\C#\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\Abduhalim\C#\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\Abduhalim\C#\Notepad\Notepad\obj\Debug\Notepad.MainForm.resources
+E:\Abduhalim\C#\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\Abduhalim\C#\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
